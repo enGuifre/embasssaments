@@ -52,7 +52,7 @@ let month_number = date.getMonth()+1;
 let month = (month_number)<10?`0${month_number}`:month_number;
 
 //we substract 2 in order to be sure that we can get some info (previous month is not always available)
-let prev_month = (month_number-1)<10?`0${month_number-1}`:month_number-1;
+let prev_month = (month_number-3)<10?`0${month_number-3}`:month_number-3;
 
 
 let year = date.getFullYear();
