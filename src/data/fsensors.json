@@ -1,0 +1,332 @@
+[
+    {
+        "sensor": "CALC000698",
+        "observations": [
+            {
+                "value": "17.212",
+                "timestamp": "21/05/2023T10:50:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "CALC000120",
+        "observations": [
+            {
+                "value": "7.331",
+                "timestamp": "21/05/2023T10:45:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "081419-003-ANA005",
+        "observations": [
+            {
+                "value": "770.41",
+                "timestamp": "21/05/2023T10:50:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "CALC000108",
+        "observations": [
+            {
+                "value": "0.39",
+                "timestamp": "21/05/2023T10:45:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "CALC000041",
+        "observations": [
+            {
+                "value": "64.92",
+                "timestamp": "21/05/2023T10:45:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "430537-001-ANA006",
+        "observations": [
+            {
+                "value": "198.23",
+                "timestamp": "21/05/2023T10:45:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "CALC000004",
+        "observations": [
+            {
+                "value": "2.414",
+                "timestamp": "21/05/2023T10:45:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "CALC000125",
+        "observations": [
+            {
+                "value": "6.825",
+                "timestamp": "21/05/2023T10:50:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "CALC000123",
+        "observations": [
+            {
+                "value": "0.834",
+                "timestamp": "21/05/2023T10:50:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "430496-001-ANA001",
+        "observations": [
+            {
+                "value": "457.99",
+                "timestamp": "21/05/2023T10:50:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "430430-001-ANA002",
+        "observations": [
+            {
+                "value": "79.19",
+                "timestamp": "21/05/2023T10:50:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "CALC000103",
+        "observations": [
+            {
+                "value": "1.555",
+                "timestamp": "21/05/2023T10:50:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "CALC000735",
+        "observations": [
+            {
+                "value": "28.216",
+                "timestamp": "21/05/2023T10:50:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "CALC000092",
+        "observations": [
+            {
+                "value": "0.933",
+                "timestamp": "21/05/2023T10:50:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "250753-004-ANA010",
+        "observations": [
+            {
+                "value": "512.94",
+                "timestamp": "21/05/2023T10:50:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "CALC000699",
+        "observations": [
+            {
+                "value": "6.879",
+                "timestamp": "21/05/2023T10:50:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "CALC000126",
+        "observations": [
+            {
+                "value": "0.971",
+                "timestamp": "21/05/2023T10:50:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "CALC000143",
+        "observations": [
+            {
+                "value": "75.859",
+                "timestamp": "21/05/2023T10:50:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "171899-003-ANA007",
+        "observations": [
+            {
+                "value": "187.961",
+                "timestamp": "21/05/2023T10:50:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "080581-002-ANA006",
+        "observations": [
+            {
+                "value": "98.152",
+                "timestamp": "21/05/2023T10:45:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "171169-001-ANA009",
+        "observations": [
+            {
+                "value": "315.959",
+                "timestamp": "21/05/2023T10:50:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "CALC000005",
+        "observations": [
+            {
+                "value": "17.087",
+                "timestamp": "21/05/2023T10:30:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "CALC000158",
+        "observations": [
+            {
+                "value": "84.466",
+                "timestamp": "21/05/2023T10:50:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "170600-001-ANA021",
+        "observations": [
+            {
+                "value": "141.194",
+                "timestamp": "21/05/2023T10:30:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "CALC000046",
+        "observations": [
+            {
+                "value": "27.966",
+                "timestamp": "21/05/2023T10:30:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "CALC000713",
+        "observations": [
+            {
+                "value": "25.604",
+                "timestamp": "21/05/2023T10:50:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "083036-001-ANA023",
+        "observations": [
+            {
+                "value": "383.564",
+                "timestamp": "21/05/2023T10:50:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "CALC000145",
+        "observations": [
+            {
+                "value": "17.672",
+                "timestamp": "21/05/2023T10:50:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "CALC000168",
+        "observations": [
+            {
+                "value": "36.189",
+                "timestamp": "21/05/2023T10:50:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "CALC000152",
+        "observations": [
+            {
+                "value": "10.693",
+                "timestamp": "21/05/2023T10:50:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "CALC000722",
+        "observations": [
+            {
+                "value": "21.615",
+                "timestamp": "21/05/2023T10:50:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "082687-001-ANA015",
+        "observations": [
+            {
+                "value": "596.44",
+                "timestamp": "21/05/2023T10:50:00",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "sensor": "CALC000697",
+        "observations": [
+            {
+                "value": "28.019",
+                "timestamp": "21/05/2023T10:50:00",
+                "location": ""
+            }
+        ]
+    }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Baserca",
+    "cap_hm3": 21.793,
+    "Codi_ACA": "E0710",
+    "nivell_perc": "E065S82PORCE",
+    "nivell_absolut": "E065S65VEMBA"
+  },
+  {
+    "name": "Cavallers",
+    "cap_hm3": 16.046,
+    "Codi_ACA": "E0750",
+    "nivell_perc": "E063S82PORCE",
+    "nivell_absolut": "E063S65VEMBA"
+  },
+  {
+    "name": "Oliana",
+    "cap_hm3": 84.332,
+    "Codi_ACA": "E0200",
+    "nivell_perc": "E062O82PORCE",
+    "nivell_absolut": "E062O65VEMBA"
+  },
+  {
+    "name": "Rialb",
+    "cap_hm3": 403.552,
+    "Codi_ACA": "E0240",
+    "nivell_perc": "E076O82PORCE",
+    "nivell_absolut": "E076O65VEMBA"
+  },
+  {
+    "name": "Terradets",
+    "cap_hm3": 33.193,
+    "Codi_ACA": "E0570",
+    "nivell_perc": "E059M82PORCE",
+    "nivell_absolut": "E059M65VEMBA"
+  },
+  {
+    "name": "Camarasa",
+    "cap_hm3": 163.408,
+    "Codi_ACA": "E0600",
+    "nivell_perc": "E060M82PORCE",
+    "nivell_absolut": "E060M65VEMBA"
+  },
+  {
+    "name": "Sant Llorenç",
+    "cap_hm3": 9.481,
+    "Codi_ACA": "E0620",
+    "nivell_perc": "E061M82PORCE",
+    "nivell_absolut": "E061M65VEMBA"
+  },
+  {
+    "name": "Riba-roja",
+    "cap_hm3": 209.560,
+    "Codi_ACA": "E1040",
+    "nivell_perc": "E004C82PORCE",
+    "nivell_absolut": "E004C65VEMBA"
+  },
+  {
+    "name": "Flix",
+    "cap_hm3": 4.171,
+    "Codi_ACA": "E1070",
+    "nivell_perc": "E002C82PORCE",
+    "nivell_absolut": "E002C65VEMBA"
+  },
+  {
+    "name": "Guiamets",
+    "cap_hm3": 10.460,
+    "Codi_ACA": "E1190",
+    "nivell_perc": "E043C82PORCE",
+    "nivell_absolut": "E043C65VEMBA"
+  }
+]
+
+  
